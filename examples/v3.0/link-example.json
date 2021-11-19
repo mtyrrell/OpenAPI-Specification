@@ -288,6 +288,12 @@
           "uuid": {
             "type": "string"
           }
+        },
+        "x-examples": {
+          "example-1": {
+            "username": "gil",
+            "uuid": "82181025-85fc-42c3-8af7-205ff7733972"
+          }
         }
       },
       "repository": {
